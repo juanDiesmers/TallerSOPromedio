@@ -13,3 +13,5 @@ calculadora_promedio.o: calculadora_promedio.c
 clean:
 	rm -f *.o $(TARGETS)
 
+run: calculadora_promedio
+	./calculadora_promedio test.txt
