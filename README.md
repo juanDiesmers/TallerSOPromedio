@@ -56,11 +56,6 @@ sudo apt-get install libgtk-3-dev
    make all
 ```
 
- 3. **Ejecuta el programa.**
- ```bash
- make run
- ```
-
 ### Ejecutar la Versión sin Interfaz Gráfica
 
 Después de compilar el programa como se describió anteriormente, puedes ejecutarlo proporcionando la ruta al archivo de texto que contiene los datos a analizar. Sigue estos pasos para ejecutar el programa:
