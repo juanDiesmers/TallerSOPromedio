@@ -55,6 +55,11 @@ sudo apt-get install libgtk-3-dev
 ```bash
    make all
 ```
+3. **Ejecucion**
+
+```bash
+   make run
+```
 
 ### Ejecutar la Versión sin Interfaz Gráfica
 
